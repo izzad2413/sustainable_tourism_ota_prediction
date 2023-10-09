@@ -127,6 +127,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+sustainable_tourism_ota_pred/
 
 # Spyder project settings
 .spyderproject
